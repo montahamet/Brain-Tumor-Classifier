@@ -10,6 +10,18 @@ Utilizing **transfer learning with the EfficientNetB1 architecture**, the model 
 
 ---
 
+## Dataset
+
+This project uses the **Brain Tumor MRI Dataset** from Kaggle:
+
+- **Dataset Name:** Brain Tumor MRI Dataset  
+- **Source:** Kaggle  
+- **Link:** https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data  
+
+The dataset contains labeled MRI images across multiple brain tumor types and healthy cases, making it suitable for supervised deep learning classification tasks.
+
+---
+
 ## Key Features
 
 ### Automated Image Preprocessing
@@ -37,5 +49,4 @@ EfficientNetB1 uses compound scaling to balance **network depth, width, and reso
 <img width="850" height="233" alt="Architecture-of-EfficientNetB1" src="https://github.com/user-attachments/assets/46948fba-3497-495b-8a99-f6e6b00f8f3a" />
 
 
-```markdown
-![EfficientNetB1 Architecture](assets/efficientnetb1.png)
+
